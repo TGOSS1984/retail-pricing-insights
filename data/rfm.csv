@@ -1,0 +1,4 @@
+customer_id,recency_days,frequency,monetary,rfm_score,segment
+1001,13,3,198,444,Champion
+1002,14,2,140,433,Loyal
+1003,0,2,139,533,Loyal
